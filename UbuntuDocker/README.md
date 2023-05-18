@@ -8,5 +8,5 @@ docker images
 
 # Docker run 
 ```
-docker run -it --name ut -v ~/df:/df --rm sinyung58/ut:2
+docker run -it --name ut -v ~/df:/df --rm shineyoungw/ut:2
 ```
