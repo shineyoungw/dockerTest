@@ -1,0 +1,12 @@
+# Docker build
+```
+git clone https://github.com/shineyoungw/dockerTest
+cd dockerTest/UbuntuDocker
+docker build --rm -t nowage/ut:v2 .
+docker images
+```
+
+# Docker run 
+```
+docker run -it --name ut -v ~/df:/df --rm sinyung58/ut:2
+```
