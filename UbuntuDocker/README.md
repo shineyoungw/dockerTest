@@ -2,7 +2,7 @@
 ```
 git clone https://github.com/shineyoungw/dockerTest
 cd dockerTest/UbuntuDocker
-docker build --rm -t nowage/ut:v2 .
+docker build --rm -t shineyoungw/ut:v2 .
 docker images
 ```
 
